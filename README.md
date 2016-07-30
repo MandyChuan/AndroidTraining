@@ -1,4 +1,5 @@
-# 各种地址/附加链接
+# 各种地址x
+>>>>>>> upstream/master
 ## 国内的android工具下载地址
 www.androiddevtools.cn
 ## Android官网文档地址
@@ -31,5 +32,3 @@ http://www.imooc.com/
 =======
 要求Adapter使用ViewHolder，并且判断ConvertView是否为空
 ## 第三次
-
->>>>>>> upstream/master
